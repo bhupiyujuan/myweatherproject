@@ -40,7 +40,7 @@ public class ChinaWeatherApp {
 		guangDongWeatherInfo.setCurrentDeviation(0.3);
 		
 		
-		WeatherInfo shanghaiWeatherInfo = new WeatherInfo(21.5);
+		WeatherInfo shanghaiWeatherInfo = new WeatherInfo(21.7);
 		shanghai.setWeatherInfo(shanghaiWeatherInfo);
 		
 		WeatherInfo hunanWeatherInfo = new WeatherInfo(19.5);
