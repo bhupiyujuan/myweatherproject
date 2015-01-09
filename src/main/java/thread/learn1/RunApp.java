@@ -2,6 +2,7 @@ package thread.learn1;
 
 public class RunApp {
 
+//SW001
 	public static void main(String[] args) {
 		Thread t1 = new Thread(new Runnable() {
 
