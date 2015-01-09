@@ -5,5 +5,6 @@ public enum ChinaCity {
 	GUANGZHOU,
 	PUDONG,
 	CHANGSHA,
-	DONGCHONG;
+	DONGCHONG,
+	SHANGHAI;
 }
