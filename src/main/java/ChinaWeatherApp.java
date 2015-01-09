@@ -19,7 +19,7 @@ public class ChinaWeatherApp {
 		ChinaWeatherControlDepartment shanghai = new ShanghaiWeatherControlDepartment();
 		ChinaWeatherControlDepartment hunan = new HunanWeatherControlDepartment();
 		
-		//Watching observers 
+		//Watching observers SW02
 		WeatherListener shenzhen = new ShenzhenWeather();		
 		WeatherListener guangzhou = new GuangzhouWeather();		
 		WeatherListener changsha = new ChangshaWeather();		
