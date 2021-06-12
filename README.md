@@ -12,6 +12,4 @@ jenkins test 2
 jenkins success build after commit
 test
 test2
-one mor
-
-there are several test
+one more
